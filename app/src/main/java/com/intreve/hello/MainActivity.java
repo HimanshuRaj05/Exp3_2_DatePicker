@@ -75,6 +75,8 @@ public class MainActivity extends AppCompatActivity {
 
                         tvDate.setText(selectedDate);
 
+                        Toast.makeText(MainActivity.this, "Hello", Toast.LENGTH_SHORT).show();
+
                     }
 
 
